@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Hudba ze Zlína",
+    "description": "",
+    "home_page_url": "https://www.hudbazezlina.cz",
+    "feed_url": "https://www.hudbazezlina.cz/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Filip Stržínek"
+    },
+    "items": [
+    ]
+}
