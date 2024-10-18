@@ -117,7 +117,7 @@
     {
         "path": "/authors/filip-strzinek/index.html",
         "type": "file",
-        "md5": "835a0cf52fe77514179d491b77c24995"
+        "md5": "69e3bc32b8a217752ead8f7da624c9ae"
     },
     {
         "path": "faq",
@@ -132,17 +132,17 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "714a20b67718ec33d10e723cb09537c2"
+        "md5": "19a4b6589d04762630f4491afe431d9b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "af8025dc9c73fb83df034dbd6807aa1a"
+        "md5": "a3a7a320d4dfcd2f3204954d1c040e02"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "82a4040825e57fe09d1677668ad01ab4"
+        "md5": "d0b849fa7a782bef50a71a1ba17268a8"
     },
     {
         "path": "kde-hrajeme",
@@ -525,9 +525,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/6/15-06-24-19-59-49-Tereza-Plaskova.jpg",
+        "path": "/media/posts/6/15-06-24-20-16-14-Tereza-Plaskova-2.jpg",
         "type": "file",
-        "md5": "6926742d77da30b0e58d6405c4595ca9"
+        "md5": "8a1a3084a28c44093ff7bea6e5a8c41f"
     },
     {
         "path": "/media/posts/6/IMG_2699-2.jpeg",
@@ -545,29 +545,29 @@
         "md5": false
     },
     {
-        "path": "/media/posts/6/responsive/15-06-24-19-59-49-Tereza-Plaskova-md.jpg",
+        "path": "/media/posts/6/responsive/15-06-24-20-16-14-Tereza-Plaskova-2-md.jpg",
         "type": "file",
-        "md5": "121fa21ead3090d5a6939a286706b425"
+        "md5": "c1693f1a270050886291183ea04c357b"
     },
     {
-        "path": "/media/posts/6/responsive/15-06-24-19-59-49-Tereza-Plaskova-sm.jpg",
+        "path": "/media/posts/6/responsive/15-06-24-20-16-14-Tereza-Plaskova-2-sm.jpg",
         "type": "file",
-        "md5": "d2c83b19ed764b54a1b1726b87e4531e"
+        "md5": "806df231c58284fe27b6d5335dda2b6d"
     },
     {
-        "path": "/media/posts/6/responsive/15-06-24-19-59-49-Tereza-Plaskova-xl.jpg",
+        "path": "/media/posts/6/responsive/15-06-24-20-16-14-Tereza-Plaskova-2-xl.jpg",
         "type": "file",
-        "md5": "2e0e6b41470c434b6742c564d76088af"
+        "md5": "e0f0c1dfc860dbea1f19a44de365eb9b"
     },
     {
-        "path": "/media/posts/6/responsive/15-06-24-19-59-49-Tereza-Plaskova-xs.jpg",
+        "path": "/media/posts/6/responsive/15-06-24-20-16-14-Tereza-Plaskova-2-xs.jpg",
         "type": "file",
-        "md5": "f74d6681d6f38b1fbc343030d68e1a1d"
+        "md5": "e41ce1011ef8c0739aa868eb7218566f"
     },
     {
-        "path": "/media/posts/6/responsive/15-06-24-19-59-49-Tereza-Plaskova-xxl.jpg",
+        "path": "/media/posts/6/responsive/15-06-24-20-16-14-Tereza-Plaskova-2-xxl.jpg",
         "type": "file",
-        "md5": "a444c736e810a49224f5e090637429b7"
+        "md5": "9fccbde973e6c4eb14624d22a6809629"
     },
     {
         "path": "/media/posts/6/responsive/IMG_2699-2-md.jpeg",
@@ -917,7 +917,7 @@
     {
         "path": "/o-nas/index.html",
         "type": "file",
-        "md5": "1afb885cb1a25c4eca60de8f0e172693"
+        "md5": "f94e68eb967d9315f55d67b222bbeb68"
     },
     {
         "path": "o-nas-2",
@@ -937,7 +937,7 @@
     {
         "path": "/proc-si-nas-vybrat/index.html",
         "type": "file",
-        "md5": "23bb0c1e63973823554c2b2e07d71b40"
+        "md5": "04211316172bb85c523e64b02956d0f9"
     },
     {
         "path": "reference",
@@ -967,7 +967,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "690e6a736007dbc9cf60ae5913a5a0fb"
+        "md5": "88e5cbb60acb3d645c914296c37307e8"
     },
     {
         "path": "sitemap.xsl",
