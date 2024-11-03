@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3b65ece9054bd234efb7bc975fa82cde"
+        "md5": "00cd8ce585736afaf35a7f466eb0405c"
     },
     {
         "path": "assets",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/filip-strzinek/index.html",
         "type": "file",
-        "md5": "69e3bc32b8a217752ead8f7da624c9ae"
+        "md5": "98cfec91c47378ea84cf35f509bc9952"
     },
     {
         "path": "faq",
@@ -127,22 +127,12 @@
     {
         "path": "/faq/index.html",
         "type": "file",
-        "md5": "d26122ddaa0968d0e7ac4b25edc50dc2"
-    },
-    {
-        "path": "feed.json",
-        "type": "file",
-        "md5": "19a4b6589d04762630f4491afe431d9b"
-    },
-    {
-        "path": "feed.xml",
-        "type": "file",
-        "md5": "a3a7a320d4dfcd2f3204954d1c040e02"
+        "md5": "bd05cde25da6296ed0613963656b50a3"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "d0b849fa7a782bef50a71a1ba17268a8"
+        "md5": "75d2977450b986db5eac6a70eec491a4"
     },
     {
         "path": "kde-hrajeme",
@@ -152,7 +142,7 @@
     {
         "path": "/kde-hrajeme/index.html",
         "type": "file",
-        "md5": "bedca66f3b771786db67ae134874b0cd"
+        "md5": "04509e08cad5061f68c487ef000a0cf0"
     },
     {
         "path": "mame-zajem-a-co-dal",
@@ -162,7 +152,7 @@
     {
         "path": "/mame-zajem-a-co-dal/index.html",
         "type": "file",
-        "md5": "de1b9beb663a1a526bae99a8d9f60f79"
+        "md5": "6ea8037ab2d9c2e5da2e3be305c921fc"
     },
     {
         "path": "media",
@@ -907,7 +897,7 @@
     {
         "path": "/moonday/index.html",
         "type": "file",
-        "md5": "2f41df03672cd1565c93bd607b230497"
+        "md5": "f3e386d98984898f7e2e70eb2b6955d7"
     },
     {
         "path": "o-nas",
@@ -917,7 +907,7 @@
     {
         "path": "/o-nas/index.html",
         "type": "file",
-        "md5": "f94e68eb967d9315f55d67b222bbeb68"
+        "md5": "699f97623e9bf0d2af754811032ac7b8"
     },
     {
         "path": "o-nas-2",
@@ -927,7 +917,7 @@
     {
         "path": "/o-nas-2/index.html",
         "type": "file",
-        "md5": "9048184205cce68a6ca91066fb497076"
+        "md5": "86a29cb87eb5c218c1bbf79cdb5f2144"
     },
     {
         "path": "proc-si-nas-vybrat",
@@ -937,7 +927,7 @@
     {
         "path": "/proc-si-nas-vybrat/index.html",
         "type": "file",
-        "md5": "04211316172bb85c523e64b02956d0f9"
+        "md5": "cdc7c4f50dfe46d1ada72f7551ecb525"
     },
     {
         "path": "reference",
@@ -947,7 +937,7 @@
     {
         "path": "/reference/index.html",
         "type": "file",
-        "md5": "85bf11d18fbd3d5a7e7c86d0da323ab2"
+        "md5": "79785da97387b18a4608ed6962087f96"
     },
     {
         "path": "reference-2",
@@ -957,7 +947,7 @@
     {
         "path": "/reference-2/index.html",
         "type": "file",
-        "md5": "3af057ecdc3d7b1871a92d790cffc9af"
+        "md5": "04204d850d0727e7e988964eb85dfd95"
     },
     {
         "path": "robots.txt",
@@ -982,7 +972,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "71459f8d124243b5cecda661ac800d27"
+        "md5": "a261ab11d04f379d36915a90bacb17c8"
     },
     {
         "path": "test-pages",
@@ -992,7 +982,7 @@
     {
         "path": "/test-pages/index.html",
         "type": "file",
-        "md5": "4d59dcdc1de7c7035dd586648d0cc27f"
+        "md5": "708369aff724eecd2b70cb7eb6debf52"
     },
     {
         "path": "ukazky",
@@ -1002,7 +992,7 @@
     {
         "path": "/ukazky/index.html",
         "type": "file",
-        "md5": "16e7cb89bfd4f38c1ff829b0936da955"
+        "md5": "f1697e147c2c97f2029e0be7fcc09b3f"
     },
     {
         "path": "ukazky-2",
@@ -1012,6 +1002,6 @@
     {
         "path": "/ukazky-2/index.html",
         "type": "file",
-        "md5": "c3c0716f59db2ae414c2db932ecb9fe0"
+        "md5": "a00f3dede85d7f3824d1b9b765fecfec"
     }
 ]
