@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "735e2e6152e0b2d3792f9d205943e35a"
+        "md5": "574a29672dca7eedbf2aece2db9f83ab"
     },
     {
         "path": "assets",
@@ -25,14 +25,9 @@
         "md5": "4e960cc8ecf8b3ee62bdc1ac5aef4d8c"
     },
     {
-        "path": "/assets/css/photoswipe.css",
-        "type": "file",
-        "md5": "da6e9be0fa855edd3610e97c1d4e38d9"
-    },
-    {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "34306bff888c391310afde0fe16b64a8"
+        "md5": "336c2cc0652b5e13e3c8e728baee0617"
     },
     {
         "path": "assets/dynamic",
@@ -48,16 +43,6 @@
         "path": "/assets/js/embla-carousel.umd.js",
         "type": "file",
         "md5": "f893797e9ada2ab14b385ca0f05b4d4e"
-    },
-    {
-        "path": "/assets/js/photoswipe-ui-default.min.js",
-        "type": "file",
-        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
-    },
-    {
-        "path": "/assets/js/photoswipe.min.js",
-        "type": "file",
-        "md5": "017385b552f7e0d979e2e2fe6f324015"
     },
     {
         "path": "/assets/js/scripts.js",
@@ -85,16 +70,6 @@
         "md5": false
     },
     {
-        "path": "/assets/svg/gallery-icons-dark.svg",
-        "type": "file",
-        "md5": "0c70735af58190b563b2940b7a07007a"
-    },
-    {
-        "path": "/assets/svg/gallery-icons-light.svg",
-        "type": "file",
-        "md5": "0bb1f41e2e459d23628833c37d8532f0"
-    },
-    {
         "path": "/assets/svg/submit-arrow.svg",
         "type": "file",
         "md5": "3731e52ff9ef24e6a85fa2434ccb6416"
@@ -117,7 +92,7 @@
     {
         "path": "/authors/filip-strzinek/index.html",
         "type": "file",
-        "md5": "66220527e82522ca85f3688d2f38ab23"
+        "md5": "5b7dc1a2b6156203e53ba75d475c51b6"
     },
     {
         "path": "faq",
@@ -127,12 +102,12 @@
     {
         "path": "/faq/index.html",
         "type": "file",
-        "md5": "4577f7d6fbec7d2d7d83dd75c26306c0"
+        "md5": "0497c77289407252481edbd37d2ecc32"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "a16ba08055ec4caf94c13b0fbf2b7842"
+        "md5": "fa7c30d29cecc7593cbf58e8b4e2e3e1"
     },
     {
         "path": "kde-hrajeme",
@@ -142,7 +117,7 @@
     {
         "path": "/kde-hrajeme/index.html",
         "type": "file",
-        "md5": "daf91901b19fa74084a015f6c7247aa8"
+        "md5": "3998ec3519fcbaeeaf89f81ce0a0a98b"
     },
     {
         "path": "mame-zajem-a-co-dal",
@@ -152,7 +127,7 @@
     {
         "path": "/mame-zajem-a-co-dal/index.html",
         "type": "file",
-        "md5": "f77ee0762a175cdb9efd2e46727388ff"
+        "md5": "3760d84a44cb3d3591eacaee3189ccb3"
     },
     {
         "path": "media",
@@ -897,7 +872,7 @@
     {
         "path": "/moonday/index.html",
         "type": "file",
-        "md5": "76d42c66494a83bd90f9c8336d23615e"
+        "md5": "e0aa4c72499918a6eb1ca6356dce2253"
     },
     {
         "path": "o-nas",
@@ -907,7 +882,7 @@
     {
         "path": "/o-nas/index.html",
         "type": "file",
-        "md5": "cc97f0a634dd5f611fbb19e1f442e063"
+        "md5": "4e908a4c4a540254dbd09019f6c00ef0"
     },
     {
         "path": "o-nas-2",
@@ -917,7 +892,7 @@
     {
         "path": "/o-nas-2/index.html",
         "type": "file",
-        "md5": "2da7cd79f1b7eca6010868433ac222e2"
+        "md5": "c6bbe535e87cb3b50883a8f9233b3eef"
     },
     {
         "path": "proc-si-nas-vybrat",
@@ -927,7 +902,7 @@
     {
         "path": "/proc-si-nas-vybrat/index.html",
         "type": "file",
-        "md5": "f31663977b1aedd3ad0a2c5aea00bebd"
+        "md5": "eff5c1922148c1382e20d8c421ac97f5"
     },
     {
         "path": "reference",
@@ -937,7 +912,7 @@
     {
         "path": "/reference/index.html",
         "type": "file",
-        "md5": "5bebabdee37e8901f038000d2868908d"
+        "md5": "a14a3ad98e43af9a4008360ae57fd4d6"
     },
     {
         "path": "reference-2",
@@ -947,7 +922,7 @@
     {
         "path": "/reference-2/index.html",
         "type": "file",
-        "md5": "fee9a4279b6298ca97ffa7167e54f035"
+        "md5": "33816d5edee334b7105b4b39b97886da"
     },
     {
         "path": "robots.txt",
@@ -972,7 +947,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "57982d86cb5a6b8e8b54675c0fc7c980"
+        "md5": "41a85ad8b1b5bd5356509fc51aa6121b"
     },
     {
         "path": "test-pages",
@@ -982,7 +957,7 @@
     {
         "path": "/test-pages/index.html",
         "type": "file",
-        "md5": "a00594a152218d44b1fb314a1c708d8e"
+        "md5": "05313379d441191fdff995774b1210e6"
     },
     {
         "path": "ukazky",
@@ -992,7 +967,7 @@
     {
         "path": "/ukazky/index.html",
         "type": "file",
-        "md5": "25ee75ee2a22bfa15bd53e550a2bf286"
+        "md5": "1684f87a8a5ee82a6e63f16b4d798c9d"
     },
     {
         "path": "ukazky-2",
@@ -1002,6 +977,6 @@
     {
         "path": "/ukazky-2/index.html",
         "type": "file",
-        "md5": "3227f312eb46c44bf03aea4783fafbf6"
+        "md5": "97ed23114c2027f05e1ba738e22456e3"
     }
 ]
